@@ -7,3 +7,28 @@
 ![image](https://user-images.githubusercontent.com/45315180/110691086-5c421900-81ed-11eb-8858-6768947f028b.png)
 ![image](https://user-images.githubusercontent.com/45315180/110691139-6f54e900-81ed-11eb-8c4a-9a20d7644535.png)
 ![image](https://user-images.githubusercontent.com/45315180/110691183-80055f00-81ed-11eb-86ba-4c81b35f8723.png)
+![image](https://user-images.githubusercontent.com/45315180/110768043-86342380-825f-11eb-8931-324f84ad1d8f.png)
+### Java creates a default constructor when there are no constructors defined ONLY.
+![image](https://user-images.githubusercontent.com/45315180/110771627-630b7300-8263-11eb-85c8-8860dba97597.png)
+![image](https://user-images.githubusercontent.com/45315180/110772144-f80e6c00-8263-11eb-837a-b26b8606154e.png)
+![image](https://user-images.githubusercontent.com/45315180/110772651-8387fd00-8264-11eb-82b0-d31a084fd0fe.png)
+![image](https://user-images.githubusercontent.com/45315180/110772840-bc27d680-8264-11eb-8cbe-dd0554fc2c03.png)
+![image](https://user-images.githubusercontent.com/45315180/110773007-ee393880-8264-11eb-8d01-f5f5e90f66ed.png)
+![image](https://user-images.githubusercontent.com/45315180/110773061-00b37200-8265-11eb-8d10-fafa61af88ff.png)
+![image](https://user-images.githubusercontent.com/45315180/110773090-090bad00-8265-11eb-8afa-566be7a2a727.png)
+![image](https://user-images.githubusercontent.com/45315180/110773337-4d974880-8265-11eb-9888-f781b69608b6.png)
+# Static imports
+![image](https://user-images.githubusercontent.com/45315180/110774029-08274b00-8266-11eb-8d56-4ea99ee87582.png)
+# Static Initializers 
+![image](https://user-images.githubusercontent.com/45315180/110774230-3d339d80-8266-11eb-8c87-25d4c717810b.png)
+![image](https://user-images.githubusercontent.com/45315180/110774573-9e5b7100-8266-11eb-9b86-866bda7f01d9.png)
+## Changes happen inside method only
+![image](https://user-images.githubusercontent.com/45315180/110774771-d498f080-8266-11eb-8e23-db6a65c9010b.png)
+![image](https://user-images.githubusercontent.com/45315180/110774914-fe521780-8266-11eb-91ec-13019384471a.png)
+![image](https://user-images.githubusercontent.com/45315180/110775219-55f08300-8267-11eb-9120-e2f1467a70fc.png)
+## Compiler Automatic type widening conversions
+![image](https://user-images.githubusercontent.com/45315180/110775634-cd261700-8267-11eb-8a25-1245e77aff84.png)
+![image](https://user-images.githubusercontent.com/45315180/110776393-afa57d00-8268-11eb-97e7-85a531f0700a.png)
+![image](https://user-images.githubusercontent.com/45315180/110776533-d5cb1d00-8268-11eb-9724-21f9e370fe75.png)
+![image](https://user-images.githubusercontent.com/45315180/110776567-e24f7580-8268-11eb-9d17-19fddf937488.png)
+![image](https://user-images.githubusercontent.com/45315180/110776607-ed0a0a80-8268-11eb-806a-8dd1aeca92b7.png)
